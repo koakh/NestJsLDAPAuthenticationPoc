@@ -3,6 +3,10 @@ import { PassportStrategy } from '@nestjs/passport';
 import { Injectable, Logger } from '@nestjs/common';
 import { ldapOptions } from '../ldap-options';
 
+/**
+ * temporary file not used/tested, just started 
+ */
+
 const optionsIntegrated = {
   ldap: ldapOptions,
   getUserNameFromHeader: (req) => {
