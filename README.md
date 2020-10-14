@@ -4,6 +4,10 @@
 
 a minimal nestjs example of how to connect to ldap c3 5.0 server
 
+## Links
+
+- [NestJsLDAPAuthenticationPoc](https://github.com/koakh/NestJsLDAPAuthenticationPoc)
+
 ## Notes
 
 > run this project inside c3 5.0 with a ldap user mario:root
