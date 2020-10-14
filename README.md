@@ -1,17 +1,13 @@
-<p align="center">
-  <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo_text.svg" width="320" alt="Nest Logo" /></a>
-</p>
+# NOTES
 
 ## Description
 
-[Nest](https://github.com/nestjs/nest) framework with LDAP Passport authentication example.
-<br>
-Created by Simon Brännström.
+a minimal nestjs example of how to connect to ldap c3 5.0 server
 
 ## Installation
 
 ```bash
-$ yarn
+$ npm i
 ```
 
 ## Running the app
@@ -20,13 +16,8 @@ $ yarn
 # development
 $ yarn run start
 ```
+
 ```
 # watch mode
 $ yarn run start:dev
 ```
-## Author
-Created by Simon Brännström January 2020.
-
-## License
-
-  Nest is [MIT licensed](LICENSE).

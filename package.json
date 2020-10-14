@@ -26,6 +26,7 @@
     "@nestjs/platform-express": "^6.7.2",
     "passport": "^0.4.1",
     "passport-ldapauth": "^2.1.3",
+    "passport-windowsauth": "^3.0.1",
     "reflect-metadata": "^0.1.13",
     "rimraf": "^3.0.0",
     "rxjs": "^6.5.3"
