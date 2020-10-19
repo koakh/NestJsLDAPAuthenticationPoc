@@ -65,4 +65,3 @@ LdapAuth.init(CONFIG.ldap.dn, CONFIG.ldap.url, app,
 ### passport-activedirectory
 
 - [Is there a good way to use Active Directory authentication with nestjs?](https://stackoverflow.com/questions/56660208/is-there-a-good-way-to-use-active-directory-authentication-with-nestjs)
-
