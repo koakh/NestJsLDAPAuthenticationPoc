@@ -28,7 +28,7 @@
     "passport-ldapauth": "^2.1.3",
     "passport-windowsauth": "^3.0.1",
     "reflect-metadata": "^0.1.13",
-    "rimraf": "^3.0.0",
+    "rimraf": "^4.3.1",
     "rxjs": "^6.5.3"
   },
   "devDependencies": {
